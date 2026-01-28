@@ -1,8 +1,7 @@
 # Detection-and-Response-Using-Suricata-and-Wazuh-Project
 SOC Detection and Response Project
 # Detection & Response Lab – Suricata IDS + Wazuh SIEM/XDR (SOC + IR + Threat Hunting Portfolio)
-![Uploading image.png…]()
-
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/12f6d9bc-2134-43e9-8a3a-10c1bc5dc4ee" />
 
 > **CyberNova Academy – 100% Hands-On SOC & GRC Training**  
 This project demonstrates a real-world **SOC detection + incident response workflow** using **Suricata (IDS/NSM)** and **Wazuh (SIEM/XDR)**.  
